@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link, a:visited {
+  background-color: #0BAA09;
+  color: white;
+  padding: 1px 6px;
+	font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+	border-radius: 4px;
+}
+a:hover, a:active {
+  background-color: red;
+}
